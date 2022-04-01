@@ -17,7 +17,7 @@ limitations under the License.
 */
 
 import * as React from 'react'
-import { useCMS, Form } from 'tinacms'
+import { useCMS, Form } from '@tinacms/toolkit'
 import { InlineField, FocusRing, FocusRingOptions } from 'react-tinacms-inline'
 import { Wysiwyg } from '../components/Wysiwyg'
 import { EditorProps } from '../types'

@@ -18,7 +18,7 @@ limitations under the License.
 
 import React, { useRef } from 'react'
 
-import { useCMS, Media } from 'tinacms'
+import { useCMS, Media } from '@tinacms/toolkit'
 import { MediaIcon } from '@tinacms/toolkit'
 
 import { MenuButton } from '../../../components/MenuHelpers'
