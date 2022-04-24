@@ -1,5 +1,13 @@
 # tinacms
 
+## 0.67.4
+
+### Patch Changes
+
+- 168f6cc6e: Update delete modal header
+- Updated dependencies [bf5fe0074]
+  - @tinacms/toolkit@0.56.22
+
 ## 0.67.3
 
 ### Patch Changes

@@ -1,5 +1,16 @@
 # Change Log
 
+## 0.54.0
+
+### Minor Changes
+
+- dc72039e4: Replaced dependendy from react-tinacms-editor to tinacms with dependency to @tinacms/toolkit
+
+### Patch Changes
+
+- Updated dependencies [bf5fe0074]
+  - @tinacms/toolkit@0.56.22
+
 ## 0.53.12
 
 ### Patch Changes
